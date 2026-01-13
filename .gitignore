@@ -1,0 +1,4 @@
+# Ignore Docker environment/personal config
+docker-compose.yml
+.DS_Store
+*.db
