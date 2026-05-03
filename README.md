@@ -42,7 +42,7 @@ There are no application package dependencies to install because this project cu
 
 ```bash
 POSTGRES_USER=admin
-POSTGRES_PASSWORD=<YOUR_PASSWORD>
+POSTGRES_PASSWORD=local_password
 POSTGRES_DB=digital_analytics
 ```
 
